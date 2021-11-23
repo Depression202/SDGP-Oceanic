@@ -10,4 +10,4 @@ Plastic Marine Debris Detection using effective Machine learning Techniques
 - [Tharini Koththigoda](https://github.com/RuStYbUlL)
 - [Sajuna Alwis](https://github.com/SajunaAlwis)
 - [Selvakumar Kavi Prashanna]()
-- [🙃](https://github.com/Depression202)
+- [Sheran Buckman](https://github.com/Depression202)
